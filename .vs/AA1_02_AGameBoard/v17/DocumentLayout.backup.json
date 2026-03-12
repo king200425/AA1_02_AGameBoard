@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YikaiChen\\Documents\\GitHub\\AA1_02_AGameBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ABBE2B-AA5A-4DC0-9E31-3127E75B967B}|AA1_02_AGameBoard\\AA1_02_AGameBoard.vcxproj|C:\\Users\\YikaiChen\\Documents\\GitHub\\AA1_02_AGameBoard\\AA1_02_AGameBoard\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5ABBE2B-AA5A-4DC0-9E31-3127E75B967B}|AA1_02_AGameBoard\\AA1_02_AGameBoard.vcxproj|solutionrelative:AA1_02_AGameBoard\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ABBE2B-AA5A-4DC0-9E31-3127E75B967B}|AA1_02_AGameBoard\\AA1_02_AGameBoard.vcxproj|C:\\Users\\YikaiChen\\Documents\\GitHub\\AA1_02_AGameBoard\\AA1_02_AGameBoard\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5ABBE2B-AA5A-4DC0-9E31-3127E75B967B}|AA1_02_AGameBoard\\AA1_02_AGameBoard.vcxproj|solutionrelative:AA1_02_AGameBoard\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\YikaiChen\\Documents\\GitHub\\AA1_02_AGameBoard\\AA1_02_AGameBoard\\FileName.cpp",
+              "RelativeDocumentMoniker": "AA1_02_AGameBoard\\FileName.cpp",
+              "ToolTip": "C:\\Users\\YikaiChen\\Documents\\GitHub\\AA1_02_AGameBoard\\AA1_02_AGameBoard\\FileName.cpp*",
+              "RelativeToolTip": "AA1_02_AGameBoard\\FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T12:27:52.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Types.h",
+              "DocumentMoniker": "C:\\Users\\YikaiChen\\Documents\\GitHub\\AA1_02_AGameBoard\\AA1_02_AGameBoard\\Types.h",
+              "RelativeDocumentMoniker": "AA1_02_AGameBoard\\Types.h",
+              "ToolTip": "C:\\Users\\YikaiChen\\Documents\\GitHub\\AA1_02_AGameBoard\\AA1_02_AGameBoard\\Types.h*",
+              "RelativeToolTip": "AA1_02_AGameBoard\\Types.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T12:22:09.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
