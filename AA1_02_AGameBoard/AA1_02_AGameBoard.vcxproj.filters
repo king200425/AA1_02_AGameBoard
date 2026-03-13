@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp">
+    <ClCompile Include="GameBoard.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>

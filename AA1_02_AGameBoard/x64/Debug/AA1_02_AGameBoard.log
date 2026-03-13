@@ -1,2 +1,13 @@
-﻿  FileName.cpp
-  AA1_02_AGameBoard.vcxproj -> C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\x64\Debug\AA1_02_AGameBoard.exe
+﻿  GameBoard.cpp
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(28,33): error C2065: 'playableCells': undeclared identifier
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(57,29): error C2838: 'PLAYER': illegal qualified name in member declaration
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(57,29): error C2065: 'PLAYER': undeclared identifier
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(120,53): error C2838: 'PLAYER': illegal qualified name in member declaration
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(120,53): error C2065: 'PLAYER': undeclared identifier
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(157,20): error C2838: 'PLAYER': illegal qualified name in member declaration
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(157,20): error C2065: 'PLAYER': undeclared identifier
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(157,20): error C2131: expression did not evaluate to a constant
+      C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(157,20):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\YikaiChen\Documents\GitHub\AA1_02_AGameBoard\AA1_02_AGameBoard\GameBoard.cpp(157,20): error C2051: case expression not constant
